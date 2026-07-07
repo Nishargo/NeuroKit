@@ -609,14 +609,14 @@ NeuroKit2 is one of the most welcoming packages for new contributors and users, 
 
 Used at
 -------
-
+ 
 |ntu| |univ_paris| |univ_duke| |uni_auckland| |uni_pittsburh| |uni_washington|
-
-.. |ntu| image:: https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1024px-Nanyang_Technological_University.svg.png
+ 
+.. |ntu| image:: https://commons.wikimedia.org/wiki/Special:FilePath/Nanyang_Technological_University.svg
    :height: 70
-.. |univ_duke| image:: https://www.tutelaprep.com/blog/wp-content/uploads/2019/12/duke.png
+.. |univ_duke| image:: https://commons.wikimedia.org/wiki/Special:FilePath/Duke_University_logo.svg
    :height: 70
-.. |univ_paris| image:: https://study-eu.s3.amazonaws.com/uploads/university/universit--de-paris-logo.svg
+.. |univ_paris| image:: https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_Paris-Cit%C3%A9_(partenariat_Wikim%C3%A9dia).svg
    :height: 70
 .. |uni_auckland| image:: https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/University_of_Auckland.svg/1024px-University_of_Auckland.svg.png
    :height: 70
