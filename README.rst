@@ -610,12 +610,25 @@ NeuroKit2 is one of the most welcoming packages for new contributors and users, 
 Used at
 -------
 
-- ![NTU](images/ntu.png)
-- ![University of Paris Cité](images/universite-paris-cite.png)
-- ![Duke University](images/duke.png.webp)
-- ![University of Auckland](images/auckland.webp)
-- ![University of Pittsburgh](images/pittsburgh.png)
-- ![University of Washington](images/washington.png)
+|ntu| |univ_paris| |univ_duke| |uni_auckland| |uni_pittsburh| |uni_washington|
+
+.. |ntu| image:: https://github.com/Nishargo/NeuroKit/raw/master/images/ntu.png
+   :height: 70
+
+.. |univ_paris| image:: https://github.com/Nishargo/NeuroKit/raw/master/images/universite-paris-cite.png
+   :height: 70
+
+.. |univ_duke| image:: https://github.com/Nishargo/NeuroKit/raw/master/images/duke.png.webp
+   :height: 70
+
+.. |uni_auckland| image:: https://github.com/Nishargo/NeuroKit/raw/master/images/auckland.webp
+   :height: 70
+
+.. |uni_pittsburh| image:: https://github.com/Nishargo/NeuroKit/raw/master/images/pittsburgh.png
+   :height: 70
+
+.. |uni_washington| image:: https://github.com/Nishargo/NeuroKit/raw/master/images/washington.png
+   :height: 70
 
 
 Disclaimer
