@@ -609,21 +609,13 @@ NeuroKit2 is one of the most welcoming packages for new contributors and users, 
 
 Used at
 -------
- 
-|ntu| |univ_paris| |univ_duke| |uni_auckland| |uni_pittsburh| |uni_washington|
- 
-.. |ntu| image:: https://commons.wikimedia.org/wiki/Special:FilePath/Nanyang_Technological_University.svg
-   :height: 70
-.. |univ_duke| image:: https://commons.wikimedia.org/wiki/Special:FilePath/Duke_University_logo.svg
-   :height: 70
-.. |univ_paris| image:: https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Universit%C3%A9_Paris-Cit%C3%A9_(partenariat_Wikim%C3%A9dia).svg
-   :height: 70
-.. |uni_auckland| image:: https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/University_of_Auckland.svg/1024px-University_of_Auckland.svg.png
-   :height: 70
-.. |uni_pittsburh| image:: https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/University_of_Pittsburgh_seal.svg/1200px-University_of_Pittsburgh_seal.svg.png
-   :height: 70
-.. |uni_washington| image:: https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/768px-University_of_Washington_seal.svg.png
-   :height: 70
+
+- ![NTU](images/ntu.png)
+- ![University of Paris Cité](images/universite-paris-cite.png)
+- ![Duke University](images/duke.png.webp)
+- ![University of Auckland](images/auckland.webp)
+- ![University of Pittsburgh](images/pittsburgh.png)
+- ![University of Washington](images/washington.png)
 
 
 Disclaimer
